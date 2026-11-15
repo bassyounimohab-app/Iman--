@@ -1,0 +1,1236 @@
+{
+  "schemaVersion": "1.0.0",
+  "language": [
+    "ar",
+    "en"
+  ],
+  "scopeNote": "Editorial starter index, not a verified exhaustive concordance. Verse links are thematic candidates and require scholarly review; direct and thematic relevance are separated.",
+  "categories": [
+    {
+      "id": "faith",
+      "ar": "الإيمان والعقيدة",
+      "en": "Faith & belief",
+      "concepts": [
+        "faith",
+        "tawhid",
+        "guidance",
+        "taqwa",
+        "tawakkul",
+        "certainty",
+        "sincerity",
+        "remembrance",
+        "dua",
+        "gratitude",
+        "love-of-allah",
+        "fear-of-allah",
+        "hope-in-allah"
+      ]
+    },
+    {
+      "id": "life",
+      "ar": "الحياة والرزق",
+      "en": "Life & provision",
+      "concepts": [
+        "rizq",
+        "blessing",
+        "wealth",
+        "poverty",
+        "charity",
+        "spending",
+        "contentment",
+        "work",
+        "marriage",
+        "children",
+        "trials",
+        "worldly-life",
+        "hereafter",
+        "success"
+      ]
+    },
+    {
+      "id": "heart",
+      "ar": "القلب والمشاعر",
+      "en": "Heart & emotions",
+      "concepts": [
+        "patience",
+        "sadness",
+        "fear",
+        "worry",
+        "tranquility",
+        "hope",
+        "despair",
+        "anger",
+        "envy",
+        "jealousy",
+        "repentance",
+        "forgiveness",
+        "mercy"
+      ]
+    },
+    {
+      "id": "character",
+      "ar": "الأخلاق والعلاقات",
+      "en": "Character & relationships",
+      "concepts": [
+        "justice",
+        "injustice",
+        "kindness",
+        "truthfulness",
+        "trustworthiness",
+        "parents",
+        "family-ties",
+        "humility",
+        "arrogance",
+        "backbiting",
+        "suspicion",
+        "reconciliation"
+      ]
+    },
+    {
+      "id": "self",
+      "ar": "النفس والتزكية",
+      "en": "Self & growth",
+      "concepts": [
+        "self",
+        "desires",
+        "satan",
+        "whispers",
+        "knowledge",
+        "wisdom",
+        "reflection",
+        "responsibility",
+        "change",
+        "purification"
+      ]
+    },
+    {
+      "id": "afterlife",
+      "ar": "الموت والآخرة",
+      "en": "Death & afterlife",
+      "concepts": [
+        "death",
+        "resurrection",
+        "judgment",
+        "paradise",
+        "hell",
+        "meeting-allah"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "rizq",
+      "ar": "الرزق",
+      "en": "Provision",
+      "descriptionAr": "الرزق من الله، وقد يأتي من أبواب لا يتوقعها الإنسان.",
+      "descriptionEn": "Provision comes from Allah and may arrive from unexpected sources.",
+      "direct": [
+        "2:3",
+        "2:22",
+        "3:37",
+        "6:151",
+        "11:6",
+        "16:71",
+        "17:30",
+        "29:60",
+        "34:36",
+        "35:3",
+        "39:52",
+        "42:12",
+        "51:58",
+        "65:2",
+        "65:3",
+        "67:21"
+      ],
+      "thematic": [
+        "2:168",
+        "2:172",
+        "2:261",
+        "2:267",
+        "3:27",
+        "5:88",
+        "7:10",
+        "14:32",
+        "14:34",
+        "16:114",
+        "23:72",
+        "28:77",
+        "62:10"
+      ]
+    },
+    {
+      "id": "forgiveness",
+      "ar": "المغفرة",
+      "en": "Forgiveness",
+      "descriptionAr": "سعة مغفرة الله، وفتح باب الرجوع إليه، مع الحث على العفو بين الناس.",
+      "descriptionEn": "Allah's forgiveness, the open door of return, and the virtue of forgiving others.",
+      "direct": [
+        "2:37",
+        "2:199",
+        "3:31",
+        "3:135",
+        "4:110",
+        "5:39",
+        "7:23",
+        "15:49",
+        "20:82",
+        "39:53",
+        "40:3",
+        "42:25",
+        "53:32",
+        "71:10"
+      ],
+      "thematic": [
+        "2:263",
+        "3:134",
+        "4:149",
+        "7:199",
+        "24:22",
+        "42:40",
+        "64:14"
+      ]
+    },
+    {
+      "id": "patience",
+      "ar": "الصبر",
+      "en": "Patience",
+      "descriptionAr": "الثبات عند الشدائد والطاعة وترك المعصية.",
+      "descriptionEn": "Steadfastness through hardship, obedience, and restraint.",
+      "direct": [
+        "2:45",
+        "2:153",
+        "2:155",
+        "2:157",
+        "2:177",
+        "2:249",
+        "3:200",
+        "8:46",
+        "11:11",
+        "16:127",
+        "18:28",
+        "29:59",
+        "31:17",
+        "39:10",
+        "42:43",
+        "70:5",
+        "103:3"
+      ],
+      "thematic": [
+        "2:214",
+        "3:142",
+        "3:146",
+        "9:119",
+        "11:115",
+        "12:90",
+        "16:96"
+      ]
+    },
+    {
+      "id": "tawakkul",
+      "ar": "التوكل",
+      "en": "Reliance upon Allah",
+      "descriptionAr": "اعتماد القلب على الله مع الأخذ بالأسباب.",
+      "descriptionEn": "Relying upon Allah while still taking responsible action.",
+      "direct": [
+        "3:159",
+        "3:160",
+        "4:81",
+        "5:11",
+        "8:2",
+        "8:49",
+        "9:51",
+        "10:84",
+        "11:123",
+        "14:12",
+        "25:58",
+        "33:3",
+        "39:38",
+        "42:10",
+        "64:13",
+        "65:3",
+        "67:29"
+      ],
+      "thematic": [
+        "2:286",
+        "9:129",
+        "11:56",
+        "16:42",
+        "29:59"
+      ]
+    },
+    {
+      "id": "gratitude",
+      "ar": "الشكر",
+      "en": "Gratitude",
+      "descriptionAr": "شكر الله بالاعتراف بنعمه واستخدامها في الخير.",
+      "descriptionEn": "Recognizing Allah's blessings and responding with thankful action.",
+      "direct": [
+        "2:152",
+        "2:172",
+        "3:123",
+        "4:147",
+        "14:7",
+        "16:78",
+        "16:114",
+        "27:40",
+        "29:17",
+        "31:12",
+        "34:13",
+        "39:7"
+      ],
+      "thematic": [
+        "7:10",
+        "14:34",
+        "23:78",
+        "67:23"
+      ]
+    },
+    {
+      "id": "taqwa",
+      "ar": "التقوى",
+      "en": "God-consciousness",
+      "descriptionAr": "مراقبة الله وامتثال أوامره واجتناب نواهيه.",
+      "descriptionEn": "Living with awareness of Allah and seeking to obey Him.",
+      "direct": [
+        "2:2",
+        "2:177",
+        "2:183",
+        "3:102",
+        "3:133",
+        "5:8",
+        "5:27",
+        "8:29",
+        "9:119",
+        "16:128",
+        "33:70",
+        "49:13",
+        "57:28",
+        "65:2"
+      ],
+      "thematic": [
+        "2:197",
+        "3:15",
+        "7:26",
+        "91:8"
+      ]
+    },
+    {
+      "id": "dua",
+      "ar": "الدعاء",
+      "en": "Supplication",
+      "descriptionAr": "دعاء الله وحده ورجاؤه وسؤاله.",
+      "descriptionEn": "Calling upon Allah, asking Him, and turning to Him.",
+      "direct": [
+        "2:186",
+        "3:38",
+        "7:55",
+        "7:56",
+        "10:12",
+        "13:14",
+        "14:40",
+        "17:11",
+        "25:77",
+        "27:62",
+        "40:60",
+        "40:65",
+        "55:29"
+      ],
+      "thematic": [
+        "1:5",
+        "21:83",
+        "21:87",
+        "21:89"
+      ]
+    },
+    {
+      "id": "guidance",
+      "ar": "الهداية",
+      "en": "Guidance",
+      "descriptionAr": "طلب الهداية والثبات على الصراط المستقيم.",
+      "descriptionEn": "Seeking guidance and steadfastness upon the straight path.",
+      "direct": [
+        "1:6",
+        "2:2",
+        "2:38",
+        "2:97",
+        "2:142",
+        "2:213",
+        "3:8",
+        "4:175",
+        "5:16",
+        "6:125",
+        "7:43",
+        "10:9",
+        "17:9",
+        "18:13",
+        "42:52"
+      ],
+      "thematic": [
+        "29:69",
+        "39:23",
+        "64:11"
+      ]
+    },
+    {
+      "id": "mercy",
+      "ar": "الرحمة",
+      "en": "Mercy",
+      "descriptionAr": "رحمة الله الواسعة والرحمة المتبادلة بين الخلق.",
+      "descriptionEn": "Allah's vast mercy and mercy shown among creation.",
+      "direct": [
+        "1:1",
+        "2:157",
+        "3:159",
+        "6:12",
+        "6:54",
+        "7:156",
+        "12:64",
+        "15:56",
+        "21:107",
+        "39:53",
+        "40:7",
+        "57:27"
+      ],
+      "thematic": [
+        "9:128",
+        "16:90",
+        "24:22",
+        "30:21",
+        "48:29"
+      ]
+    },
+    {
+      "id": "blessing",
+      "ar": "البركة",
+      "en": "Blessing",
+      "descriptionAr": "الخير والنماء والبركة التي يهبها الله.",
+      "descriptionEn": "Goodness, increase, and blessing granted by Allah.",
+      "direct": [
+        "7:96",
+        "11:48",
+        "11:73",
+        "21:71",
+        "21:81",
+        "23:29",
+        "24:61",
+        "25:1",
+        "37:113",
+        "41:10"
+      ],
+      "thematic": [
+        "2:261",
+        "14:7",
+        "16:18",
+        "27:40"
+      ]
+    },
+    {
+      "id": "charity",
+      "ar": "الصدقة",
+      "en": "Charity",
+      "descriptionAr": "البذل والإحسان للفقراء وابتغاء وجه الله.",
+      "descriptionEn": "Giving to those in need sincerely for Allah's sake.",
+      "direct": [
+        "2:261",
+        "2:262",
+        "2:263",
+        "2:264",
+        "2:265",
+        "2:267",
+        "2:271",
+        "2:274",
+        "9:60",
+        "9:103",
+        "57:18",
+        "63:10",
+        "64:16",
+        "76:8"
+      ],
+      "thematic": [
+        "3:92",
+        "3:134",
+        "4:36",
+        "9:79"
+      ]
+    },
+    {
+      "id": "wealth",
+      "ar": "المال",
+      "en": "Wealth",
+      "descriptionAr": "المال ابتلاء وأمانة ووسيلة للخير لا غاية الحياة.",
+      "descriptionEn": "Wealth is a test and trust, and a means rather than life's ultimate goal.",
+      "direct": [
+        "2:155",
+        "2:188",
+        "3:14",
+        "3:186",
+        "4:5",
+        "8:28",
+        "9:34",
+        "17:26",
+        "18:46",
+        "28:77",
+        "57:20",
+        "63:9",
+        "64:15",
+        "89:20",
+        "102:1"
+      ],
+      "thematic": [
+        "2:261",
+        "2:274",
+        "9:103",
+        "17:29"
+      ]
+    },
+    {
+      "id": "contentment",
+      "ar": "القناعة والرضا",
+      "en": "Contentment",
+      "descriptionAr": "طمأنينة القلب وعدم التعلق بما في أيدي الناس.",
+      "descriptionEn": "Being content and not consumed by what others possess.",
+      "direct": [
+        "9:59",
+        "20:131",
+        "28:77",
+        "89:27-30",
+        "93:5"
+      ],
+      "thematic": [
+        "2:216",
+        "3:26",
+        "4:32",
+        "16:97"
+      ]
+    },
+    {
+      "id": "marriage",
+      "ar": "الزواج",
+      "en": "Marriage",
+      "descriptionAr": "السكن والمودة والرحمة والحقوق بين الزوجين.",
+      "descriptionEn": "Tranquility, affection, mercy, and mutual rights in marriage.",
+      "direct": [
+        "2:187",
+        "2:221",
+        "2:228",
+        "2:232",
+        "2:235",
+        "4:19",
+        "4:21",
+        "4:3",
+        "24:32",
+        "30:21",
+        "33:49",
+        "65:1",
+        "65:6"
+      ],
+      "thematic": [
+        "2:223",
+        "4:34",
+        "4:128"
+      ]
+    },
+    {
+      "id": "children",
+      "ar": "الذرية والأولاد",
+      "en": "Children & offspring",
+      "descriptionAr": "الأولاد نعمة وأمانة وموضع ابتلاء ومسؤولية.",
+      "descriptionEn": "Children are a blessing, trust, test, and responsibility.",
+      "direct": [
+        "3:38",
+        "7:189",
+        "11:71",
+        "14:39",
+        "18:46",
+        "25:74",
+        "37:100",
+        "42:49",
+        "64:14",
+        "64:15"
+      ],
+      "thematic": [
+        "2:233",
+        "6:151",
+        "17:31",
+        "31:13"
+      ]
+    },
+    {
+      "id": "trials",
+      "ar": "الابتلاء",
+      "en": "Trials & tests",
+      "descriptionAr": "الاختبار بالخوف والجوع وفقد بعض النعم وغيرها.",
+      "descriptionEn": "Tests through fear, hunger, loss, and other circumstances.",
+      "direct": [
+        "2:155",
+        "2:156",
+        "2:157",
+        "3:186",
+        "21:35",
+        "29:2",
+        "29:3",
+        "67:2",
+        "89:15",
+        "89:16"
+      ],
+      "thematic": [
+        "2:214",
+        "3:142",
+        "9:126",
+        "47:31"
+      ]
+    },
+    {
+      "id": "sadness",
+      "ar": "الحزن",
+      "en": "Sadness",
+      "descriptionAr": "ذكر الحزن في القرآن مع التسلية والصبر والرجاء.",
+      "descriptionEn": "The Quran addresses grief with comfort, patience, and hope.",
+      "direct": [
+        "3:139",
+        "9:40",
+        "12:84",
+        "12:86",
+        "15:88",
+        "20:40",
+        "28:7",
+        "29:33",
+        "39:61",
+        "41:30",
+        "46:13",
+        "58:10"
+      ],
+      "thematic": [
+        "2:38",
+        "10:62",
+        "13:28",
+        "94:5",
+        "94:6"
+      ]
+    },
+    {
+      "id": "fear",
+      "ar": "الخوف",
+      "en": "Fear",
+      "descriptionAr": "الخوف الطبيعي وخشية الله والأمن الذي يمنحه الله.",
+      "descriptionEn": "Human fear, reverent fear of Allah, and the security He grants.",
+      "direct": [
+        "2:38",
+        "2:62",
+        "2:112",
+        "2:262",
+        "3:175",
+        "5:44",
+        "9:18",
+        "10:62",
+        "13:21",
+        "21:28",
+        "32:16",
+        "39:36",
+        "70:27",
+        "79:40"
+      ],
+      "thematic": [
+        "2:155",
+        "3:139",
+        "9:40",
+        "41:30"
+      ]
+    },
+    {
+      "id": "tranquility",
+      "ar": "السكينة والطمأنينة",
+      "en": "Tranquility",
+      "descriptionAr": "طمأنينة القلب وسكينته بذكر الله والإيمان.",
+      "descriptionEn": "The heart's calm through remembrance and faith.",
+      "direct": [
+        "2:248",
+        "9:26",
+        "9:40",
+        "13:28",
+        "48:4",
+        "48:18",
+        "48:26"
+      ],
+      "thematic": [
+        "10:62",
+        "41:30",
+        "89:27"
+      ]
+    },
+    {
+      "id": "hope",
+      "ar": "الرجاء والأمل",
+      "en": "Hope",
+      "descriptionAr": "عدم القنوط من رحمة الله وحسن الظن به.",
+      "descriptionEn": "Never despairing of Allah's mercy and maintaining hope.",
+      "direct": [
+        "12:87",
+        "15:56",
+        "39:53",
+        "41:49",
+        "41:50",
+        "29:23"
+      ],
+      "thematic": [
+        "2:218",
+        "3:139",
+        "94:5",
+        "94:6"
+      ]
+    },
+    {
+      "id": "despair",
+      "ar": "اليأس والقنوط",
+      "en": "Despair",
+      "descriptionAr": "التحذير من اليأس من رحمة الله.",
+      "descriptionEn": "Warnings against despairing of Allah's mercy.",
+      "direct": [
+        "12:87",
+        "15:56",
+        "29:23",
+        "39:53",
+        "41:49",
+        "41:50"
+      ],
+      "thematic": [
+        "3:139",
+        "94:5",
+        "94:6"
+      ]
+    },
+    {
+      "id": "repentance",
+      "ar": "التوبة",
+      "en": "Repentance",
+      "descriptionAr": "الرجوع إلى الله وترك الذنب والندم والعزم على الإصلاح.",
+      "descriptionEn": "Returning to Allah, leaving sin, and resolving to make amends.",
+      "direct": [
+        "2:37",
+        "2:54",
+        "2:128",
+        "4:17",
+        "4:18",
+        "5:39",
+        "9:104",
+        "11:3",
+        "24:31",
+        "25:70",
+        "66:8"
+      ],
+      "thematic": [
+        "3:135",
+        "39:53",
+        "40:3"
+      ]
+    },
+    {
+      "id": "justice",
+      "ar": "العدل",
+      "en": "Justice",
+      "descriptionAr": "القيام بالقسط ولو على النفس والأقربين.",
+      "descriptionEn": "Upholding justice, even against oneself or close relatives.",
+      "direct": [
+        "4:58",
+        "4:135",
+        "5:8",
+        "6:152",
+        "7:29",
+        "16:90",
+        "42:15",
+        "49:9",
+        "57:25",
+        "60:8"
+      ],
+      "thematic": [
+        "2:282",
+        "17:35"
+      ]
+    },
+    {
+      "id": "kindness",
+      "ar": "الإحسان",
+      "en": "Kindness & excellence",
+      "descriptionAr": "إتقان العمل والإحسان إلى الناس والخلق.",
+      "descriptionEn": "Doing what is beautiful and treating others with excellence.",
+      "direct": [
+        "2:83",
+        "2:195",
+        "3:134",
+        "3:148",
+        "4:36",
+        "5:13",
+        "9:91",
+        "16:90",
+        "17:23",
+        "28:77",
+        "55:60"
+      ],
+      "thematic": [
+        "2:263",
+        "4:149",
+        "24:22"
+      ]
+    },
+    {
+      "id": "parents",
+      "ar": "بر الوالدين",
+      "en": "Kindness to parents",
+      "descriptionAr": "الإحسان إلى الوالدين واحترامهما ورعايتهما.",
+      "descriptionEn": "Treating parents with kindness, respect, and care.",
+      "direct": [
+        "2:83",
+        "4:36",
+        "6:151",
+        "17:23",
+        "17:24",
+        "29:8",
+        "31:14",
+        "31:15",
+        "46:15"
+      ],
+      "thematic": [
+        "14:41",
+        "71:28"
+      ]
+    },
+    {
+      "id": "family-ties",
+      "ar": "صلة الرحم",
+      "en": "Family ties",
+      "descriptionAr": "الإحسان إلى الأقارب وصيانة الروابط الأسرية.",
+      "descriptionEn": "Maintaining family bonds and treating relatives well.",
+      "direct": [
+        "2:27",
+        "4:1",
+        "4:36",
+        "8:75",
+        "13:21",
+        "13:25",
+        "16:90",
+        "17:26",
+        "30:38",
+        "47:22"
+      ],
+      "thematic": [
+        "2:83",
+        "24:22"
+      ]
+    },
+    {
+      "id": "humility",
+      "ar": "التواضع",
+      "en": "Humility",
+      "descriptionAr": "ترك الكبر والتواضع في السلوك والقول.",
+      "descriptionEn": "Avoiding arrogance and behaving with humility.",
+      "direct": [
+        "17:37",
+        "25:63",
+        "26:215",
+        "31:18",
+        "31:19",
+        "57:16"
+      ],
+      "thematic": [
+        "4:36",
+        "7:55",
+        "16:23"
+      ]
+    },
+    {
+      "id": "arrogance",
+      "ar": "الكبر",
+      "en": "Arrogance",
+      "descriptionAr": "ذم الاستكبار ورفض الحق واحتقار الناس.",
+      "descriptionEn": "Condemnation of pride, rejecting truth, and looking down on others.",
+      "direct": [
+        "2:34",
+        "4:36",
+        "7:13",
+        "7:146",
+        "16:23",
+        "17:37",
+        "31:18",
+        "40:35",
+        "40:56",
+        "45:8"
+      ],
+      "thematic": [
+        "16:22",
+        "39:60"
+      ]
+    },
+    {
+      "id": "envy",
+      "ar": "الحسد",
+      "en": "Envy",
+      "descriptionAr": "الاستعاذة من شر الحاسد والتحذير من تمني زوال النعمة.",
+      "descriptionEn": "Seeking refuge from envy and avoiding resentment of others' blessings.",
+      "direct": [
+        "2:109",
+        "3:120",
+        "4:54",
+        "4:32",
+        "113:5"
+      ],
+      "thematic": [
+        "12:8",
+        "12:9"
+      ]
+    },
+    {
+      "id": "anger",
+      "ar": "الغضب",
+      "en": "Anger",
+      "descriptionAr": "كظم الغيظ والعفو وضبط رد الفعل.",
+      "descriptionEn": "Restraint, forgiveness, and control when anger arises.",
+      "direct": [
+        "3:134",
+        "7:150",
+        "42:37",
+        "42:40",
+        "42:43"
+      ],
+      "thematic": [
+        "41:34",
+        "16:126"
+      ]
+    },
+    {
+      "id": "truthfulness",
+      "ar": "الصدق",
+      "en": "Truthfulness",
+      "descriptionAr": "الصدق في القول والعمل والوفاء بالحق.",
+      "descriptionEn": "Truthfulness in speech and action.",
+      "direct": [
+        "2:177",
+        "3:17",
+        "9:119",
+        "33:23",
+        "33:24",
+        "39:33",
+        "49:15",
+        "59:8"
+      ],
+      "thematic": [
+        "4:69",
+        "17:80"
+      ]
+    },
+    {
+      "id": "trustworthiness",
+      "ar": "الأمانة",
+      "en": "Trustworthiness",
+      "descriptionAr": "أداء الأمانات والوفاء بالعهود.",
+      "descriptionEn": "Fulfilling trusts, responsibilities, and covenants.",
+      "direct": [
+        "2:283",
+        "4:58",
+        "8:27",
+        "23:8",
+        "33:72",
+        "70:32"
+      ],
+      "thematic": [
+        "17:34",
+        "16:91"
+      ]
+    },
+    {
+      "id": "backbiting",
+      "ar": "الغيبة",
+      "en": "Backbiting",
+      "descriptionAr": "النهي عن الغيبة والسخرية وسوء القول.",
+      "descriptionEn": "The prohibition of backbiting, mockery, and harmful speech.",
+      "direct": [
+        "49:11",
+        "49:12",
+        "104:1"
+      ],
+      "thematic": [
+        "24:15",
+        "33:58"
+      ]
+    },
+    {
+      "id": "suspicion",
+      "ar": "سوء الظن",
+      "en": "Suspicion",
+      "descriptionAr": "اجتناب كثير من الظن والتجسس والغيبة.",
+      "descriptionEn": "Avoiding excessive suspicion, spying, and backbiting.",
+      "direct": [
+        "49:12",
+        "24:15",
+        "24:16"
+      ],
+      "thematic": [
+        "10:36",
+        "53:28"
+      ]
+    },
+    {
+      "id": "reconciliation",
+      "ar": "الإصلاح والعفو بين الناس",
+      "en": "Reconciliation & pardon",
+      "descriptionAr": "إصلاح ذات البين والعفو والإعراض عن الإساءة.",
+      "descriptionEn": "Reconciling people and responding to harm with pardon where appropriate.",
+      "direct": [
+        "2:224",
+        "2:237",
+        "3:134",
+        "4:114",
+        "8:1",
+        "42:40",
+        "49:9",
+        "49:10"
+      ],
+      "thematic": [
+        "24:22",
+        "41:34"
+      ]
+    },
+    {
+      "id": "self",
+      "ar": "النفس",
+      "en": "The self",
+      "descriptionAr": "النفس وأحوالها ومجاهدتها ومحاسبتها.",
+      "descriptionEn": "The human self, its states, discipline, and accountability.",
+      "direct": [
+        "12:53",
+        "13:11",
+        "17:14",
+        "75:2",
+        "79:40",
+        "89:27",
+        "91:7",
+        "91:8",
+        "91:9",
+        "91:10"
+      ],
+      "thematic": [
+        "59:18",
+        "2:286"
+      ]
+    },
+    {
+      "id": "desires",
+      "ar": "الهوى والشهوات",
+      "en": "Desires",
+      "descriptionAr": "ضبط الهوى وعدم اتباع الرغبات على حساب الحق.",
+      "descriptionEn": "Disciplining desire rather than following it against what is right.",
+      "direct": [
+        "4:27",
+        "7:176",
+        "18:28",
+        "25:43",
+        "28:50",
+        "38:26",
+        "45:23",
+        "79:40"
+      ],
+      "thematic": [
+        "3:14",
+        "12:53"
+      ]
+    },
+    {
+      "id": "satan",
+      "ar": "الشيطان",
+      "en": "Satan",
+      "descriptionAr": "عداوة الشيطان ووسوسته وسبل الوقاية منها.",
+      "descriptionEn": "Satan's enmity, temptation, and ways to resist it.",
+      "direct": [
+        "2:168",
+        "2:208",
+        "4:76",
+        "7:27",
+        "7:200",
+        "16:98",
+        "17:53",
+        "35:6",
+        "36:60",
+        "43:62"
+      ],
+      "thematic": [
+        "14:22",
+        "15:39",
+        "114:4-6"
+      ]
+    },
+    {
+      "id": "knowledge",
+      "ar": "العلم",
+      "en": "Knowledge",
+      "descriptionAr": "فضل العلم وطلب الزيادة منه والتثبت.",
+      "descriptionEn": "The virtue of knowledge, learning, and careful verification.",
+      "direct": [
+        "20:114",
+        "35:28",
+        "39:9",
+        "58:11",
+        "96:1-5"
+      ],
+      "thematic": [
+        "2:269",
+        "3:7",
+        "17:36"
+      ]
+    },
+    {
+      "id": "wisdom",
+      "ar": "الحكمة",
+      "en": "Wisdom",
+      "descriptionAr": "الحكمة في الفهم والقول والعمل.",
+      "descriptionEn": "Wisdom in understanding, speech, and action.",
+      "direct": [
+        "2:269",
+        "3:164",
+        "16:125",
+        "17:39",
+        "31:12",
+        "38:20",
+        "62:2"
+      ],
+      "thematic": [
+        "4:113",
+        "54:5"
+      ]
+    },
+    {
+      "id": "reflection",
+      "ar": "التفكر والتدبر",
+      "en": "Reflection",
+      "descriptionAr": "التفكر في آيات الله وتدبر القرآن والكون.",
+      "descriptionEn": "Reflecting on revelation and the signs in creation.",
+      "direct": [
+        "3:190",
+        "4:82",
+        "23:68",
+        "38:29",
+        "47:24",
+        "59:21"
+      ],
+      "thematic": [
+        "2:164",
+        "30:8",
+        "51:20-21"
+      ]
+    },
+    {
+      "id": "change",
+      "ar": "التغيير",
+      "en": "Change",
+      "descriptionAr": "تغيير ما بالنفس والسعي والإصلاح.",
+      "descriptionEn": "Inner change, effort, and reform.",
+      "direct": [
+        "8:53",
+        "13:11",
+        "53:39",
+        "91:9",
+        "91:10"
+      ],
+      "thematic": [
+        "2:286",
+        "29:69"
+      ]
+    },
+    {
+      "id": "death",
+      "ar": "الموت",
+      "en": "Death",
+      "descriptionAr": "حتمية الموت والاستعداد للقاء الله.",
+      "descriptionEn": "The certainty of death and preparing for the meeting with Allah.",
+      "direct": [
+        "3:185",
+        "4:78",
+        "21:35",
+        "29:57",
+        "39:42",
+        "62:8",
+        "67:2"
+      ],
+      "thematic": [
+        "23:99",
+        "63:10",
+        "63:11"
+      ]
+    },
+    {
+      "id": "judgment",
+      "ar": "الحساب ويوم القيامة",
+      "en": "Judgment Day",
+      "descriptionAr": "البعث والحساب والجزاء على الأعمال.",
+      "descriptionEn": "Resurrection, accountability, and recompense for deeds.",
+      "direct": [
+        "2:281",
+        "3:30",
+        "4:87",
+        "6:160",
+        "17:13",
+        "18:49",
+        "21:47",
+        "23:102",
+        "36:54",
+        "99:6-8"
+      ],
+      "thematic": [
+        "45:22",
+        "75:1-15"
+      ]
+    },
+    {
+      "id": "paradise",
+      "ar": "الجنة",
+      "en": "Paradise",
+      "descriptionAr": "نعيم الجنة وصفات أهلها وأسباب الفوز بها.",
+      "descriptionEn": "The delights of Paradise, its people, and the path to it.",
+      "direct": [
+        "2:25",
+        "3:15",
+        "3:133",
+        "4:57",
+        "9:72",
+        "13:23",
+        "18:107",
+        "32:17",
+        "43:70",
+        "47:15",
+        "55:46",
+        "76:12"
+      ],
+      "thematic": [
+        "2:82",
+        "23:1-11",
+        "56:10-40"
+      ]
+    },
+    {
+      "id": "hell",
+      "ar": "جهنم والنار",
+      "en": "Hellfire",
+      "descriptionAr": "التحذير من النار وأسباب النجاة منها.",
+      "descriptionEn": "Warnings about the Fire and the path away from it.",
+      "direct": [
+        "2:24",
+        "3:131",
+        "4:56",
+        "9:63",
+        "18:29",
+        "22:19-22",
+        "32:20",
+        "66:6",
+        "67:6-11",
+        "78:21-30"
+      ],
+      "thematic": [
+        "3:185",
+        "23:103-108"
+      ]
+    }
+  ],
+  "curation": {
+    "direct": "The verse explicitly names or centrally discusses the concept.",
+    "thematic": "The verse is meaningfully connected but may not be exclusively about the concept.",
+    "reviewStatus": "Initial editorial candidates. Not yet checked verse-by-verse against a tafsir corpus by qualified reviewers. Ranges are preserved as ranges and should be expanded before production."
+  }
+}
